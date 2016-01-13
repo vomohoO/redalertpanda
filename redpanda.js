@@ -10,15 +10,7 @@ var kittens = [
     },
 {
     "url": "http://photo.jdp.h6r.org/.scaled/",
-    "imageUrl": "http://photo.jdp.h6r.org/.scaled/auto_DSC01310.JPG" 
-    },
-{
-    "url": "http://photo.jdp.h6r.org/.scaled/",
     "imageUrl": "http://photo.jdp.h6r.org/.scaled/auto_DSC01311.JPG" 
-    },
-{
-    "url": "http://photo.jdp.h6r.org/.scaled/",
-    "imageUrl": "http://photo.jdp.h6r.org/.scaled/auto_DSC01312.JPG" 
     },
 {
     "url": "http://photo.jdp.h6r.org/.scaled/",
