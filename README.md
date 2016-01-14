@@ -1,18 +1,19 @@
 Emergency Kitten!
 =================
 
-This is the code behind <http://www.emergencykitten.com/>. It's an HTML page
-with some JavaScript. Because kittens are simple like that.
+This is the code behind <http://www.redalertpanda.org/>. It's an HTML page
+with some JavaScript. Because red panda are lazy like me ZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZzzzzzzzzzzzz.
 
+The project is basically taken from https://github.com/rgrove/emergencykitten, but the world need more kromeugnons (red panda)
 
 Installing
 ----------
 
 1. Clone this git repo (fork it first if you plan to make changes).
 
-        $ git clone git://github.com/rgrove/emergencykitten.git
+        $ git clone git://github.com/vomohoO/redalertpanda.git
 
-2. Open `index.html` in a browser and you should see Emergency Kitten!
+2. Open `index.html` in a browser and you should see some red panda! (they are soooooooooooo cute)
 
 
 License
