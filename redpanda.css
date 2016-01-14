@@ -17,7 +17,10 @@ a:hover { text-decoration: underline; }
 .centered { text-align: center; }
 
 .kitten-image {
-    min-height: 600px;
+/*    min-height: 600px;*/
+    max-width: 60%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
 
 .license {

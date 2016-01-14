@@ -29,7 +29,7 @@
 //    link.href      = kitten.url;
 
     image.src       = kitten.imageUrl;
-
+    image.classList.add("kitten-image");
     link.appendChild(image);
     doc.getElementById('putakitteninme').appendChild(link);
 }(this, document));
